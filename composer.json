@@ -1,0 +1,15 @@
+{
+  "name": "mep/subrip",
+  "description": "Convert Srt to Cliptext",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Paul Preibisch",
+      "email": "fire@b3dmultitech.com"
+    }
+  ],
+  "require": {
+    "captioning/captioning": "2.*"
+  }
+}
