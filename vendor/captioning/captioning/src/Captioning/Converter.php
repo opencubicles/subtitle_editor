@@ -61,14 +61,7 @@ class Converter
 
         return $ass;
     }
-    public static function subrip2cliptext(SubripFile $_srt)
-    {
-        foreach ($_srt->getCues() as $cue) {
 
-        }
-
-
-    }
 
     /* webvtt converters */
     public static function webvtt2subrip(WebvttFile $_vtt)
